@@ -25,8 +25,7 @@
 			box-sizing: border-box;
 			z-index: -9999;
 			height: 100vh;
-		}
-		}	
+		}		
 		a{
 			text-decoration: none;
 		}
